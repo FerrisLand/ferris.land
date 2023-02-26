@@ -1,9 +1,0 @@
-{% extends "base" %}
-
-{% block page %}Home{% endblock %}
-
-{% block content %}
-<p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, quia delectus minima culpa reprehenderit veritatis voluptate nesciunt expedita suscipit sed officiis, reiciendis incidunt asperiores libero odit perspiciatis soluta eveniet voluptas!
-</p>
-{% endblock %}

@@ -1,6 +1,0 @@
-<span class="nav-branding">
-  {# TODO: Icon here #}
-  <a href="/">{{ domain }}</a>
-</span>
-
-{# TODO: more links, login/register, account stuff, etc. #}
